@@ -8,6 +8,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+<img src="img/Ana Cláudia.png">
+
 Camila Larissa, Suporte de E - Commerce  :  
 Idade: 25 anos  
 Área: suporte ao cliente   
@@ -16,13 +18,21 @@ Motivação: .Cuidar da saúde, ter mais disposição, melhorar a alimentação
 Necessidades: Saber os benefícios dos alimentos, ter o controle de consumo de água, lembrete dos horários das refeições    
 Comportamento: Passa muito tempo pesquisando os benefícios dos alimentos, não sabe quanto é seu consumo de água diária  
 
+
+
+<img src="img/Johnny Silvestre.png">
+
 Johnny Silvestre, Analista de sistemas:  
 Idade: 30 anos  
 Área: TI  
 Localização: Belo Horizonte - Minas Gerais   
 Motivação: saúde, auto-estima, desenvolver um físico estético  
 Necessidades: Saber exatamente a quanto de proteína, carboidrato e calorias ingeridas nas refeições durante o dia  
-Comportamento: Passa muito tempo na academia, extremamente preocupado com a  sua dieta e com o andamento do seu progresso   
+Comportamento: Passa muito tempo na academia, extremamente preocupado com a  sua dieta e com o andamento do seu progresso 
+
+
+
+<img src="img/Victor Igne.png">
 
 Victor Igne, Desenvolvedor de VE  :  
 Idade: 21 anos  
@@ -30,7 +40,11 @@ Idade: 21 anos
 Localização: Rio de Janeiro - Rio de Janeiro   
 Motivação: . Evoluir o físico, melhorar a saúde e qualidade de vida.  
 Necessidades: ajustar e analisar o consumo de alimentos diários.     
-Comportamento: Busca conhecimento sobre treino mas não sabe ajustar dieta  
+Comportamento: Busca conhecimento sobre treino mas não sabe ajustar dieta 
+
+
+
+<img src="img/Matheus Mourão.png">
 
 Matheus Mourão / Economista :  
 Idade: 40 anos  
@@ -38,7 +52,11 @@ Idade: 40 anos
 Localização: Vitória - Espírito Santo   
 Motivação: ganho de massa magra, melhorar condicionamento físico  
 Necessidades: Atingir metas diárias de consumo proteico/calórico  
-Comportamento: Indisciplinado com a dieta  
+Comportamento: Indisciplinado com a dieta 
+
+
+
+<img src="img/Maria Augusta.png">
 
 Maria Augusta / Contadora :  
 Idade: 36 anos  
@@ -46,7 +64,11 @@ Idade: 36 anos
 Localização: São Paulo - São Paulo   
 Motivação: diminuir o percentual de gordura corporal  
 Necessidades: Atingir metas diárias de consumo calórico  
-Comportamento: Indisciplinado em seguir a dieta  
+Comportamento: Indisciplinado em seguir a dieta 
+
+
+
+<img src="img/Ana Cláudia.png">
  
 Ana Cláudia / Aposentada :
 Idade: 67 anos
@@ -55,8 +77,6 @@ Localização: Petrópolis - Rio de Janeiro
 Motivação: ser fisicamente mais ativa, perder peso
 Necessidades: Atingir metas diárias de consumo calórico
 Comportamento: Dificuldade em lidar com aplicativos de dietas pela complexidade e em calcular as calorias diárias consumidas.
-
-
 
 
 
