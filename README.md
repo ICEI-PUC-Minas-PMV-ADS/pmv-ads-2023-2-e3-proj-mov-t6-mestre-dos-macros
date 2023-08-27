@@ -1,21 +1,20 @@
-Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio:
-“Mestre dos Macros”
+# Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio: “Mestre dos Macros”
 
-Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas 
+'Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas'
 
-Eixo 3 - Projeto
+'Eixo 3 - Projeto'
 
-3º SEMESTRE - EIXO 3
+'3º SEMESTRE - EIXO 3'
 
 A aplicação fundamentada no eixo alimentício e administrativo, visa auxiliar o gerenciamento nutricional de acordo com as necessidades do usuário. Ou seja, o aplicativo fornecerá ao usuário a média da unidade e/ou grama calórica de cada alimento selecionado para uma refeição. Além do fornecimento desses dados, o detalhamento de valores nutricionais funciona como uma forma de conscientização quanto a outras especificações do alimento. Por fim, um cálculo é realizado oferecendo o total de proteínas, calorias, gramas e afins para auxiliar na quantidade de consumo diária de cada usuário.
 
-Integrantes
+# Integrantes
 Camila Larissa Gonçalves Carlos Jose Leao Freitas João Pedro Nonato Santos Kaliane Silva Diniz Matheus de França Loyola Mourão Victor Igne Franco Rocha
 
-Orientador
+# Orientador
 Udo Fritzke Junior
 
-Instruções de utilização
+# Instruções de utilização
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
 # Documentação
