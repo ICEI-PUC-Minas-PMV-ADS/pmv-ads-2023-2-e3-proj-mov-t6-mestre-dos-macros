@@ -1,5 +1,4 @@
-# Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio:
-“Mestre dos Macros”
+# Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio: “Mestre dos Macros”
 
 
 `Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
