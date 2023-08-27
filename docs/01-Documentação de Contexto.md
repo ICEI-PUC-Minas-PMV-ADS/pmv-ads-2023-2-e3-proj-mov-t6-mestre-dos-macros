@@ -1,4 +1,5 @@
 # Introdução
+A alimentação, assim como uma rotina de exercício físicos, é um dos pilares fundamentais para a manutenção da saúde corporal. De acordo com uma matéria realizada pelo portal de notícias G1, “Alimentação é 85% do processo”! Isto é, muito além do conjunto de atividades físicas, é a partir do bom gerenciamento da alimentação que teremos a possibilidade de bons resultados, ainda que sejam para manter, ganhar ou perder peso. Dessa forma, uma das maneiras de realizar esse gerenciamento alimentar é por meio de dados específicos de alimentos utilizados em dietas, por exemplo. Porém nos deparamos com algumas problemáticas: diversas informações disseminadas, falta de praticidade de acesso à esses dados e afins. Baseado nisso, uma aplicação que atue como um facilitador da obtenção desses dados que, por muitas vezes, são primordiais para essa administração nutricional, pode amenizar as adversidades levantadas acima. 
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
