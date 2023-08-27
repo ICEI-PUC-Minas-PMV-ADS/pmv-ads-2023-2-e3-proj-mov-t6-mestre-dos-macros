@@ -1,13 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A alimentação, assim como uma rotina de exercício físicos, é um dos pilares fundamentais para a manutenção da saúde corporal. De acordo com uma matéria realizada pelo portal de notícias G1, “Alimentação é 85% do processo”! Isto é, muito além do conjunto de atividades físicas, é a partir do bom gerenciamento da alimentação que teremos a possibilidade de bons resultados, ainda que sejam para manter, ganhar ou perder peso
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O nascimento da problemática se desenvolve a partir da disseminação de diversos tipos de informações e dados que não estão presentes em uma única fonte. A falta de praticidade para a obtenção de informações de valores nutricionais não possibilita um bom gerenciamento alimentício para aqueles que necessitam, sejam por questões médicas, pessoais ou esportivas, de um controle nutricional . Esses fatores são pilares que buscamos, por meio da aplicação, amenizar. 
+De acordo com o autor Douglas Rushkoff, o mundo e tudo acontece agora! Vivemos em um mundo imediatista, virou prioritário termos dispostos dados à nossa necessidade. Portanto, a disponibilidade de diversos valores nutricionais, com cálculo calórico e informações precisas podem oferecer ao usuário a praticidade diária para objetivos nutricionais.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,26 +14,24 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+A aplicação fundamentada no eixo alimentício e administrativo, visa auxiliar o gerenciamento nutricional de acordo com as necessidades do usuário. Ou seja, o aplicativo fornecerá ao usuário a média da unidade e/ou grama calórica de cada alimento selecionado para uma refeição.
+ Além do fornecimento desses dados, o detalhamento de valores nutricionais funciona como uma forma de conscientização quanto a outras especificações do alimento. Por fim, um cálculo é realizado oferecendo o total de proteínas, calorias, gramas e afins para auxiliar na quantidade de consumo diária de cada usuário.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Visto a dificuldade da obtenção dos valores nutricionais para um gerenciamento efetivo de dietas diárias, a aplicação atua como uma forma de facilitador do acesso desses dados. Além de oferecer e apresentar para o usuário cálculos, especificações e as ferramentas necessárias para administração nutricional da alimentação. O aplicativo visa auxiliar na manutenção de uma rotina saudável de cada usuário utilizando como base princípios importantes como o Self-Management ( Gerenciamento próprio ), Healthy lifestyle ( Estilo de vida saudável ) e outras formas de gerenciamento e gestão alimentar.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público alvo desta aplicação pode se resumir a pessoas que buscam uma forma de gerenciamento alimentício, de acordo com a sua finalidade. Então, por exemplo, pessoas que buscam cuidar da saúde, elevar a qualidade de vida, aprimorar a dieta, fins estéticos, manutenção da massa ou gordura corporal podem se enquadrar no nosso público alvo! 
+
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
