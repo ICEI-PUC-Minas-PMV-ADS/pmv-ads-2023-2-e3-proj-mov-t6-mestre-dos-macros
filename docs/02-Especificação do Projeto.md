@@ -16,38 +16,38 @@ Motivação: .Cuidar da saúde, ter mais disposição, melhorar a alimentação
 Necessidades: Saber os benefícios dos alimentos, ter o controle de consumo de água, lembrete dos horários das refeições    
 Comportamento: Passa muito tempo pesquisando os benefícios dos alimentos, não sabe quanto é seu consumo de água diária  
 
-Johnny Silvestre, Analista de sistemas:
-Idade: 30 anos
-Área: TI
-Localização: Belo Horizonte - Minas Gerais 
-Motivação: saúde, auto-estima, desenvolver um físico estético
-Necessidades: Saber exatamente a quanto de proteína, carboidrato e calorias ingeridas nas refeições durante o dia
-Comportamento: Passa muito tempo na academia, extremamente preocupado com a  sua dieta e com o andamento do seu progresso 
+Johnny Silvestre, Analista de sistemas:  
+Idade: 30 anos  
+Área: TI  
+Localização: Belo Horizonte - Minas Gerais   
+Motivação: saúde, auto-estima, desenvolver um físico estético  
+Necessidades: Saber exatamente a quanto de proteína, carboidrato e calorias ingeridas nas refeições durante o dia  
+Comportamento: Passa muito tempo na academia, extremamente preocupado com a  sua dieta e com o andamento do seu progresso   
 
-Victor Igne, Desenvolvedor de VE  :
-Idade: 21 anos
-Área: Desenvolvedor de Software 
-Localização: Rio de Janeiro - Rio de Janeiro 
-Motivação: . Evoluir o físico, melhorar a saúde e qualidade de vida.
-Necessidades: ajustar e analisar o consumo de alimentos diários.   
-Comportamento: Busca conhecimento sobre treino mas não sabe ajustar dieta
+Victor Igne, Desenvolvedor de VE  :  
+Idade: 21 anos  
+Área: Desenvolvedor de Software   
+Localização: Rio de Janeiro - Rio de Janeiro   
+Motivação: . Evoluir o físico, melhorar a saúde e qualidade de vida.  
+Necessidades: ajustar e analisar o consumo de alimentos diários.     
+Comportamento: Busca conhecimento sobre treino mas não sabe ajustar dieta  
 
-Matheus Mourão / Economista :
-Idade: 40 anos
-Área: autônomo
-Localização: Vitória - Espírito Santo 
-Motivação: ganho de massa magra, melhorar condicionamento físico
-Necessidades: Atingir metas diárias de consumo proteico/calórico
-Comportamento: Indisciplinado com a dieta
+Matheus Mourão / Economista :  
+Idade: 40 anos  
+Área: autônomo  
+Localização: Vitória - Espírito Santo   
+Motivação: ganho de massa magra, melhorar condicionamento físico  
+Necessidades: Atingir metas diárias de consumo proteico/calórico  
+Comportamento: Indisciplinado com a dieta  
 
-Maria Augusta / Contadora :
-Idade: 36 anos
-Área: Gestão financeira
-Localização: São Paulo - São Paulo 
-Motivação: diminuir o percentual de gordura corporal
-Necessidades: Atingir metas diárias de consumo calórico
-Comportamento: Indisciplinado em seguir a dieta
-
+Maria Augusta / Contadora :  
+Idade: 36 anos  
+Área: Gestão financeira  
+Localização: São Paulo - São Paulo   
+Motivação: diminuir o percentual de gordura corporal  
+Necessidades: Atingir metas diárias de consumo calórico  
+Comportamento: Indisciplinado em seguir a dieta  
+ 
 Ana Cláudia / Aposentada :
 Idade: 67 anos
 Área: Aposentada
