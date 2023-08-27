@@ -137,15 +137,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Os usuários devem ser capazes de pesquisar e selecionar alimentos a partir de um banco de dados abrangente, que inclui informações nutricionais detalhadas para cada item. | ALTA | 
+|RF-002| O aplicativo deve calcular automaticamente as quantidades de carboidratos, proteínas e gorduras com base nas porções dos alimentos registrados pelos usuários.  | ALTA |
+|RF-003| Ao realizar o login o usuário deve poder definir e editar suas próprias metas diárias de ingestão de macros, levando em consideração fatores como objetivos de condicionamento físico, idade, peso, altura e nível de atividade.  | ALTA |
+|RF-004| Uma funcionalidade de lembretes e notificações pode ser implementada para lembrar os usuários de registrar suas refeições e monitorar seu consumo de macros.  | MÉDIA |
+|RF-005| O aplicativo deve permitir que os usuários registrem suas refeições personalizadas.   | ALTA |
+|RF-006| O aplicativo deve conter um sistema de gráfico com os resultados do andamento de sua alimentação.  | ALTA |
+|RF-007| Além do cálculo de macros, o aplicativo deve permitir que os usuários registrem a quantidade de água que estão consumindo ao longo do dia para manter um bom nível de hidratação.   | MÉDIA  |
+|RF-008|  O aplicativo deve alertar os usuários quando eles estiverem se aproximando de exceder ou ficar aquém de suas metas diárias de macros, notificando para realizar ajustes.  | ALTA |
+|RF-009| Apresentar as variações de preparo de um mesmo alimento para ajudar os usuários a fazer escolhas mais conscientes.  | BAIXA |
+|RF-010| O aplicativo deve conter frases motivacionais para incentivar o usuário.  | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A interface do aplicativo deve ser fácil de usar, com layouts claros e navegação lógica. | ALTA | 
+|RNF-002| O aplicativo deve ser acessível para pessoas com deficiências visuais, motoras ou auditivas |  ALTA | 
+|RNF-003| O aplicativo deve ser compatível com o sistema operacional Android. |  ALTA | 
+|RNF-004| O sistema utilizará uma API Externa para auxílio no banco de dados |  ALTA | 
+|RNF-005| Será utilizada  as seguintes tecnologias: React-native, Java-script, Python, Flask, PostgresSQL.  |  ALTA | 
+|RNF-006| Deploy Frontend: Vercel |  MÉDIA| 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
