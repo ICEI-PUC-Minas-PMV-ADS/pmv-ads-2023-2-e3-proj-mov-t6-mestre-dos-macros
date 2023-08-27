@@ -23,7 +23,7 @@ Visto a dificuldade da obtenção dos valores nutricionais para um gerenciamento
 
 ## Público-Alvo
 
-O público alvo desta aplicação pode se resumir a pessoas que buscam uma forma de gerenciamento alimentício, de acordo com a sua finalidade. Então, por exemplo, pessoas que buscam cuidar da saúde, elevar a qualidade de vida, aprimorar a dieta, fins estéticos, manutenção da massa ou gordura corporal podem se enquadrar no nosso público alvo! 
+O público alvo desta aplicação pode se resumir a pessoas que buscam uma forma de gerenciamento alimentício, de acordo com a sua finalidade.  A partir dos 18 anos de idade. Então, por exemplo, pessoas que buscam cuidar da saúde, elevar a qualidade de vida, aprimorar a dieta, fins estéticos, manutenção da massa ou gordura corporal podem se enquadrar no nosso público alvo! 
 
 
 
