@@ -15,10 +15,15 @@ A aplicação fundamentada no eixo alimentício e administrativo, visa auxiliar 
 ## Integrantes
 
 Camila Larissa Gonçalves,
+
 Carlos Jose Leao Freitas, 
-João Pedro Nonato Santos, 
+
+João Pedro Nonato Santos,
+
 Kaliane Silva Diniz, 
+
 Matheus de França Loyola Mourão e 
+
 Victor Igne Franco Rocha
 
 
