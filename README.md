@@ -8,7 +8,7 @@
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
-## Integrantes
+## Integrantes 
 
 * Nome completo do aluno 1
 * Nome completo do aluno 2
