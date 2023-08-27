@@ -1,6 +1,6 @@
 # Introdução
 
-A alimentação, assim como uma rotina de exercício físicos, é um dos pilares fundamentais para a manutenção da saúde corporal. De acordo com uma matéria realizada pelo portal de notícias G1, “Alimentação é 85% do processo”! Isto é, muito além do conjunto de atividades físicas, é a partir do bom gerenciamento da alimentação que teremos a possibilidade de bons resultados, ainda que sejam para manter, ganhar ou perder peso
+A alimentação, assim como uma rotina de exercício físicos, é um dos pilares fundamentais para a manutenção da saúde corporal. De acordo com uma matéria realizada pelo portal de notícias G1, “Alimentação é 85% do processo”! Isto é, muito além do conjunto de atividades físicas, é a partir do bom gerenciamento da alimentação que teremos a possibilidade de bons resultados, ainda que sejam para manter, ganhar ou perder peso.
 
 ## Problema
 O nascimento da problemática se desenvolve a partir da disseminação de diversos tipos de informações e dados que não estão presentes em uma única fonte. A falta de praticidade para a obtenção de informações de valores nutricionais não possibilita um bom gerenciamento alimentício para aqueles que necessitam, sejam por questões médicas, pessoais ou esportivas, de um controle nutricional . Esses fatores são pilares que buscamos, por meio da aplicação, amenizar. 
