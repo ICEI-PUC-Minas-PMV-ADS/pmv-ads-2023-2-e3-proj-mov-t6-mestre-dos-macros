@@ -19,5 +19,5 @@ De acordo com o autor Douglas Rushkoff, o mundo e tudo acontece agora! Vivemos e
    O aplicativo visa auxiliar na manutenção de uma rotina saudável de cada usuário utilizando como base princípios importantes como o Self-Management ( Gerenciamento próprio ), Healthy lifestyle ( Estilo de vida saudável ) e outras formas de gerenciamento e gestão alimentar.
 
 ## Público-Alvo
-   O público alvo desta aplicação pode se resumir a pessoas que buscam uma forma de gerenciamento alimentício, de acordo com a sua finalidade. Então, por exemplo, pessoas que buscam cuidar da saúde, elevar a qualidade de vida, aprimorar a dieta, fins estéticos, manutenção da massa ou gordura corporal podem se enquadrar no nosso público alvo! 
+   O público alvo desta aplicação pode se resumir a pessoas que buscam uma forma de gerenciamento alimentício, de acordo com a sua finalidade. Então, por exemplo, pessoas que buscam cuidar da saúde, elevar a qualidade de vida, aprimorar a dieta, fins estéticos, manutenção da massa ou gordura corporal podem se enquadrar no nosso público alvo.
 
