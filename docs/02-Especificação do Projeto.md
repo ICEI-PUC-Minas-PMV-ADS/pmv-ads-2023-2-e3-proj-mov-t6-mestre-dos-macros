@@ -86,10 +86,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Camila Larissa  | Desejo calcular a minha quantidade de macros da minha dieta  | Para controlar a quantidade de ingestão de proteína, carboidratos e gorduras. |
+|Johnny Silvestre    | Quero ter de forma sistemática a minha progressão através de gráficos                 | Para assim desenvolver minha dieta com base na minha evolução dentro dos meus calculos  |
+|Victor Igne      | Deseja estruturar refeições feitas através de informações nutricionais de um banco de dados                 | Para, dessa forma, criar novas refeições a partir das variações dos alimentos pré selecionados |
+|Maria Augusta       | Gostaria de ser notificado das minhas refeições e hidratação, além de ser orientado / reconhecido pelo andamento da dieta                | para que assim eu consiga manter uma rotina motivada e organizada. |
+|Ana Cláudia       | Gostaria de ser notificado para adicionar minhas refeições e verificar o consumo de gorduras.                | Para ter um controle melhor dos horários e consumos de alimentos que fazem mal à saúde. |
+|Matheus Mourão      | Gostaria de cadastrar minhas métricas de cálculo para definir a minha quantidade de consumo.               | E assim, ter o controle sobre a minha evolução e comparar meus resultados conforme as minhas informações. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
