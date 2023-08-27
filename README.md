@@ -1,23 +1,30 @@
-# TÍTULO DO PROJETO
+# Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio:
+“Mestre dos Macros”
 
-`CURSO`
 
-`DISCIPLINA`
+`Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+`
 
-`SEMESTRE`
+`Eixo 3 - Projeto`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`3º SEMESTRE - EIXO 3`
+
+A aplicação fundamentada no eixo alimentício e administrativo, visa auxiliar o gerenciamento nutricional de acordo com as necessidades do usuário. Ou seja, o aplicativo fornecerá ao usuário a média da unidade e/ou grama calórica de cada alimento selecionado para uma refeição.
+ Além do fornecimento desses dados, o detalhamento de valores nutricionais funciona como uma forma de conscientização quanto a outras especificações do alimento. Por fim, um cálculo é realizado oferecendo o total de proteínas, calorias, gramas e afins para auxiliar na quantidade de consumo diária de cada usuário. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Camila Larissa Gonçalves
+Carlos Jose Leao Freitas
+João Pedro Nonato Santos
+Kaliane Silva Diniz
+Matheus de França Loyola Mourão
+Victor Igne Franco Rocha
+
 
 ## Orientador
+Udo Fritzke Junior
 
-* Nome completo do professor 1
 
 ## Instruções de utilização
 
