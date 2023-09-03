@@ -104,8 +104,11 @@ As ferramentas empregadas no projeto são:
 
 MOTIVAÇÃO PARA AS ESCOLHAS ACIMA:
 O editor de código: foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-Ferramentas de comunicação: Utilizaremos o TEAMS, Google Meet e o WhatssApp para comunicação de mensagens de texto, vídeos chamadas, troca de anexos, imagens e afins
+
+Ferramentas de comunicação: Utilizaremos o TEAMS, Google Meet e o WhatssApp para comunicação de mensagens de texto, vídeos chamadas, troca de anexos, imagens e afins.
+
 Ferramentas de desenho de tela: Para estruturar o desenho de tela do projeto iremos utilizar algumas ferramentas de design, como o Canva e o Photoshop, além da formatação de estrutura de wireframing, com o Marvel App.
+
 Formatação de documentação: A adição da formatação ocorrerá por meio do Google Documentos. Uma ótima forma de compartilhamento de documentos para que seja acessível para todos os integrantes do grupo em tempo real! 
  
 > **Ferramentas que auxiliarão no gerenciamento**:
