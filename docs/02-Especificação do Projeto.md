@@ -195,7 +195,8 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-[D.C.U. Mestre dos Macros.drawio (2).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-mestre-dos-macros/files/12524538/D.C.U.Mestre.dos.Macros.drawio.2.pdf)
+![Diagrama Casos de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-mestre-dos-macros/assets/111434777/accc5a92-d244-4e15-9448-595f91f110af)
+
 
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
