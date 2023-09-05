@@ -195,7 +195,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![Diagrama Casos de Uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t6-mestre-dos-macros/assets/111434777/accc5a92-d244-4e15-9448-595f91f110af)
+<img src="img/Diagrama Casos de Uso.png">
 
 
 
