@@ -39,10 +39,10 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 As tecnologias utilizadas neste projeto serão:<br>
 
-    Linguagens: JavaScript, Python.<br>
-    Frameworks: React Native, Flask.<br>
-    SGBD: MySQL.<br>
-    Ferramentas: Visual Studio Code, Android Studio.<br>
+    Linguagens: JavaScript, Python.
+    Frameworks: React Native, Flask.
+    SGBD: MySQL.
+    Ferramentas: Visual Studio Code, Android Studio.
     Bibliotecas: Flask-SQLAlchemy, python-dotenv, Flask-Migrate.
 
 <img src="img/Tecnologias utilizadas.png" height="300">
