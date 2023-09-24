@@ -17,7 +17,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ## Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
 
@@ -37,9 +37,14 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As tecnologias utilizadas neste projeto serão:
+    linguagens: JavaScript, Python.
+    Frameworks: React Native, Flask.
+    SGBD: MySQL.
+    Ferramentas: Visual Studio Code, Android Studio.
+    Bibliotecas: Flask-SQLAlchemy, python-dotenv, Flask-Migrate.
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+<img src="img/Tecnologias utilizadas.png" height="300">
 
 ## Hospedagem
 
