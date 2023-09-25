@@ -22,7 +22,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+docs\bd\Script-tabelas-database.sql
 
 ## Tecnologias Utilizadas
 
