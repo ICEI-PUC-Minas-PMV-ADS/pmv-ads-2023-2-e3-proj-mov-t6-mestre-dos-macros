@@ -97,15 +97,15 @@ Todo o processo de implementação do SCRUM ao Github funcionará de maneira bem
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código: Visual Studio Code;
-- Ferramentas de comunicação: TEAMS, Google Meet, WhatssApp;
-- Ferramentas de desenho de tela (_wireframing_): MarvelApp, Canva, Photoshop;
+- Editor de código: Visual Studio Code e Expo;
+- Ferramentas de comunicação: TEAMS, Google Meet, Trello, WhatssApp;
+- Ferramentas de desenho de tela (_wireframing_): Figma, Canva, Photoshop;
 - Formatação de documentação: Google Documentos.
 
 MOTIVAÇÃO PARA AS ESCOLHAS ACIMA:
 O editor de código: foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
-Ferramentas de comunicação: Utilizaremos o TEAMS, Google Meet e o WhatssApp para comunicação de mensagens de texto, vídeos chamadas, troca de anexos, imagens e afins.
+Ferramentas de comunicação: Utilizaremos o TEAMS, Google, Trello Meet e o WhatssApp para comunicação de mensagens de texto, vídeos chamadas, troca de anexos, imagens e afins.
 
 Ferramentas de desenho de tela: Para estruturar o desenho de tela do projeto iremos utilizar algumas ferramentas de design, como o Canva e o Photoshop, além da formatação de estrutura de wireframing, com o Marvel App.
 
