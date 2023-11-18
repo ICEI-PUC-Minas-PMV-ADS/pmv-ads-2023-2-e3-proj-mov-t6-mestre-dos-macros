@@ -16,16 +16,7 @@ Garantir que o usuário consiga adicionar alimentos a refeição
 Garantir que o usuário possa cadastrar e visualizar seus dados pessoais e alterá-los, em caso de necessidade
 
 
-Participantes: Para participar dos testes será necessário um usuário cujo objetivo seja ganho de massa, um usuário cujo objetivo seja manter o peso, um usuário cujo objetivo seja perda de peso. Os três perfis de usuário estão representados na tabela abaixo:
-
-
-Perfil de Usuário
-
-Usuário 1	Ganho de peso
-
-Usuário 2	Manter peso
-
-Usuário 3	Perda de peso
+Participantes: Para participar dos testes será necessário um usuário cujo objetivo seja cadastrar refeições, e incluir alimentos.
 
 Procedimentos: Os testes deverão ocorrer de maneira remota. E as tarefas a serem executadas serão apresentadas abaixo:
 
