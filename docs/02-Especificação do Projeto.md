@@ -147,7 +147,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| O aplicativo deve permitir que os usuários registrem suas refeições personalizadas.   | ALTA |
 |RF-006| O aplicativo deve conter um sistema de gráfico com os resultados do andamento de sua alimentação.  | ALTA |
 |RF-007| Além do cálculo de macros, o aplicativo deve permitir que os usuários registrem a quantidade de água que estão consumindo ao longo do dia para manter um bom nível de hidratação.   | MÉDIA  |
-|RF-008|  O aplicativo deve alertar os usuários quando eles estiverem se aproximando de exceder ou ficar aquém de suas metas diárias de macros, notificando para realizar ajustes.  | ALTA |
+|RF-008|  O aplicativo deve alertar os usuários quando eles estiverem se aproximando de exceder ou ficar aquém de suas metas diárias de macros, notificando para realizar ajustes.  | MÉDIA |
 |RF-009| Apresentar as variações de preparo de um mesmo alimento para ajudar os usuários a fazer escolhas mais conscientes.  | BAIXA |
 |RF-010| O aplicativo deve conter frases motivacionais para incentivar o usuário.  | BAIXA |
 
