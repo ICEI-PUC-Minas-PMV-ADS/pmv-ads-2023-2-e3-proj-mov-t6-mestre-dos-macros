@@ -11,12 +11,20 @@
 | **Caso de Teste** 	| **CT-02 – Cálculo automático das quantidades de carboidratos, proteínas, e gorduras com base nas porções dos alimentos registrados** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 – O aplicativo deve calcular automaticamente as quantidades de carboidratos, proteínas e gorduras com base nas porções dos alimentos registrados pelos usuários. |
-| Objetivo do Teste 	| Verificar se a aplicação disponibiliza as quantidades de macro nutrientes com base nas porções dos alimentos registrados pelos usuários. |
+| Objetivo do Teste 	| Verificar se o aplicativo disponibiliza as quantidades de macro nutrientes com base nas porções dos alimentos registrados pelos usuários. |
 | Passos 	| 1) Acessar o aplicativo “Mestre dos macros” 2) Visualizar a página de quantidades de nutrientes clicando em calcular macros. |
 |Critério de Êxito | - O usuário visualizar as quantidades dos de carboidratos, proteínas e gorduras com base nas porções dos alimentos. |
 |  	|  	|
 
-| **Caso de Teste** 	| **CT-03 – Login** 	|
+| **Caso de Teste** 	| **CT-03 – Cadastrar refeições personalizadas** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-005 – O aplicativo deve permitir que os usuários registrem suas refeições personalizadas. |
+| Objetivo do Teste 	| Verificar se o usuário consegue cadastrar refeições personalizadas na aplicação. |
+| Passos 	| 1) Acessar o aplicativo “Mestre dos Macros” 2) Visualizar a página de Cadastro de Novas Dietas, clicando em Editar Refeição na página de Seleção de Refeição 3) Pesquisar e selecionar os alimentos 4) Clique no Salvar. |
+|Critério de Êxito | - O cadastro foi realizado com sucesso. |
+|  	|  	|
+
+| **Caso de Teste** 	| **CT-04 – Definição de metas diárias de ingestão de nutrientes** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-003 – Ao realizar o login o usuário deve poder definir e editar suas próprias metas diárias de ingestão de macros, levando em consideração fatores como objetivos de condicionamento físico, idade, peso, altura e nível de atividade. |
 | Objetivo do Teste 	| Verificar se a definição e a edição das metas diárias de ingestão de macros funciona levando em consideração fatores como objetivos de condicionamento físico, idade, peso, altura e nível de atividade. |
@@ -24,7 +32,12 @@
 |Critério de Êxito | - As telas de cadastro de novo usuário, e cadastro de nova dieta devem abrir corretamente - Os cadastros devem direcionar o usuário para a tela de objetivos diários do Mestre dos Macros. |
 |  	|  	|
 
-
+| **Caso de Teste** 	| **CT-05 – Disponibilização gráfica dos resultados da ingestão de nutrientes** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-006 – O aplicativo deve conter um sistema de gráfico com os resultados do andamento de sua alimentação. |
+| Objetivo do Teste 	| Verificar se a aplicação disponibiliza graficamente a evolução dos nutrientes ingeridos pelos usuários. |
+| Passos 	| 1) Acessar o aplicativo “Mestre dos macros” 2) Visualizar a tela inicial de objetivos diários 3) Visualizar a evolução dos objetivos clicando em consumo calórico diário. |
+|Critério de Êxito | - O usuário visualizar o gráfico com a evolução da ingestão dos nutrientes. |
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
