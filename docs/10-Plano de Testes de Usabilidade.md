@@ -7,13 +7,13 @@ Detalhamento dos Objetivos:
 
 O objetivo é avaliar a usabilidade do aplicativo e identificar problemas de uso visando a busca melhoria contínua, para que possamos desenvolver o aplicativo será necessário:
   
-  Garantir que o usuário consiga realizar buscas de alimentos de modo intuitivo e funcional
+Garantir que o usuário consiga realizar buscas de alimentos de modo intuitivo e funcional
   
-  Garantir que o usuário consiga registrar refeições
+Garantir que o usuário consiga registrar refeições
   
-  Garantir que o usuário consiga adicionar alimentos a refeição
+Garantir que o usuário consiga adicionar alimentos a refeição
   
-  Garantir que o usuário possa cadastrar e visualizar seus dados pessoais e alterá-los, em caso de necessidade
+Garantir que o usuário possa cadastrar e visualizar seus dados pessoais e alterá-los, em caso de necessidade
 
 
 Participantes: Para participar dos testes será necessário um usuário cujo objetivo seja ganho de massa, um usuário cujo objetivo seja manter o peso, um usuário cujo objetivo seja perda de peso. Os três perfis de usuário estão representados na tabela abaixo:
