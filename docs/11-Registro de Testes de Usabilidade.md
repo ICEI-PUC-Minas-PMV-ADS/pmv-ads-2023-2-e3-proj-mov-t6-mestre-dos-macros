@@ -25,8 +25,15 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 
 `Telas analisadas`: Abertura, Login, primeiro acesso, Informações de dieta, Informações de dieta parte dois e tela inicial, 
 
-|Heurísticas (Nielsen) | Notas dos avaliadores  |Média    |Consenso |Considerações |Melhorias |
+|Heurísticas (Nielsen) | Notas dos avaliadores  | Média das notas   |Consenso |Considerações |Melhorias |
 |--------------------|------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+|Visibilidade do status    | Aval1: 1    Aval2:0  Aval3: 0  ||0 |Houve média aceitável sobre a visibilidade do Sistema. o sistema informar o que está acontecendo em real time pro usuário. | -|
+|Compatibilidade com o mundo real     | Aval1: 2  Aval2: 0  Aval3: 1  ||1 |O site precisa ter mais compatibilidade com o mundo real, melhorar a linguagem do sistema, os ícones, trazer mais imagens ilustrativas    | -|
+|Liberdade de controle fácil pro usuário     | Aval1: 0   Aval2: 0  Aval3: 0   ||0 |O usuário tem liberdade dentro do sistema para realizar as alterações necessárias em sua dieta e alimentação   | -|
+|Consistência e padrões     | Aval1: 1    Aval2:0  Aval3: 0  ||0 |Houve média aceitável sobre a visibilidade do Sistema. o sistema informar o que está acontecendo em real time pro usuário. | -|
+|Prevenções de erros     |Aval1: 1  Aval2: 1  Aval3: 1   ||1 Houve um consenso sobre as prevenções de erro, O sistema precisa de mais sinalizações, mas não é uma um impedimento na utilização do sistema    | Serão implementados pop-ups que estarão nas páginas que precisam receber informação dos usuários    |
+|Reconhecimento em vez de memorização    | Aval1: 1  Aval2: 0  Aval3: 1  ||1 |O breadcrumb do aplicativo é bem didático não seno necessário memorizar os caminhos, | Mas é importante em algumas ações do aplicativo colocar o caminho que o usuário fez|
+
 
 
 
