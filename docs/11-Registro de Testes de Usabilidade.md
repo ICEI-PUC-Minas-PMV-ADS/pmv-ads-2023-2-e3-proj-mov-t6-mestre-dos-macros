@@ -41,11 +41,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 - 
 |Heurística | Melhoria  |                 
 |--------------------|------------------------------------|
-|Visibilidade do status    |  - certifique-se de fornecer feedback visual para indicar quando uma ação foi concluída com sucesso ou se ocorreu algum erro - Utilize mensagens de confirmação após o envio de formulários ou realização de ações importantes.     |  
-|Compatibilidade com o mundo real     | - Usar imagens dos alimentos  - Exibir indicadores de progresso para informar as calorias consumidas  |  
-|Retorno em caso de erro  | - Fornecer opções claras para desfazer ações ou retornar a estados anteriores. - Fornecer mensagens de erro claras e orientações sobre como corrigir os erros.     |  
-|Consistência e padrões  | -  Pop-ups de erro  - Mensagem de erro de conexão     |  
-|Ajuda e documentação:  | Fornece instruções claras e orientações em áreas-chave do site - Oferecer uma seção de perguntas frequentes (FAQ) ou uma página de suporte que aborde as principais dúvidas dos usuários Incluir tutoriais ou guias passo a passo para ajudar os - usuários a utilizar os recursos do site   |  
+|Visibilidade do status    |   certifique-se de fornecer feedback visual para indicar quando uma ação foi concluída com sucesso ou se ocorreu algum erro. Utilize mensagens de confirmação após o envio de formulários ou realização de ações importantes.     |  
+|Compatibilidade com o mundo real     | Usar imagens dos alimentos. Exibir indicadores de progresso para informar as calorias consumidas  |  
+|Retorno em caso de erro  | Fornecer opções claras para desfazer ações ou retornar a estados anteriores. Fornecer mensagens de erro claras e orientações sobre como corrigir os erros.     |  
+|Consistência e padrões  |  Pop-ups de erro, Mensagem de erro de conexão     |  
+|Ajuda e documentação:  | Fornece instruções claras e orientações em áreas-chave do site. Oferecer uma seção de perguntas frequentes (FAQ) ou uma página de suporte que aborde as principais dúvidas dos usuários Incluir tutoriais ou guias passo a passo para ajudar os - usuários a utilizar os recursos do site   |  
  
 
 
