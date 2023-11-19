@@ -4,8 +4,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
 
-# Avaliação Heurística 
-- Identificação 
+# Identificação 
 
 |`Nome do Projeto `| `Mestre dos Macros  ` | 
 |--------------------|------------------------------------|
@@ -21,6 +20,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 |Nível 2:    | Pequeno problema com baixa prioridade na correção.    |
 |Nível 3:    | Problema com alta prioridade de correção.    |
 |Nível 4:    | Catástrofe de usabilidade, ou seja, o produto só será liberado se a correção for feita.     |  
+
+# Avaliação Estática (feita pela equipe de desenvolvimento) 
+
+`Telas analisadas`: Abertura, Login, primeiro acesso, Informações de dieta, Informações de dieta parte dois, alerta de consumo, tela inicial, 
 
 
 
