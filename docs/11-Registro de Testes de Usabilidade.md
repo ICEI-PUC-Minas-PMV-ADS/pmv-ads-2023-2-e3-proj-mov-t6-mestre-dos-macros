@@ -46,6 +46,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 |Retorno em caso de erro  | Fornecer opções claras para desfazer ações ou retornar a estados anteriores. Fornecer mensagens de erro claras e orientações sobre como corrigir os erros.     |  
 |Consistência e padrões  |  Pop-ups de erro, Mensagem de erro de conexão     |  
 |Ajuda e documentação:  | Fornece instruções claras e orientações em áreas-chave do site. Oferecer uma seção de perguntas frequentes (FAQ) ou uma página de suporte que aborde as principais dúvidas dos usuários Incluir tutoriais ou guias passo a passo para ajudar os - usuários a utilizar os recursos do site   |  
+
+
+
+
+
  
 
 
