@@ -38,7 +38,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 |Ajuda e documentação    | Aval1: 1 Aval2: 1  Aval3: 1   |1|1 |Viu-se a importância de criamos uma documentação para o usuário em algumas telas com ações que tenha necessidade de uma explicação mais detalhada  | Criar uma aba ajuda; Identificar que algumas ações precisam de  |
 
 - O que fazer para melhorar  
-- 
+  
 |Heurística | Melhoria  |                 
 |--------------------|------------------------------------|
 |Visibilidade do status    |   certifique-se de fornecer feedback visual para indicar quando uma ação foi concluída com sucesso ou se ocorreu algum erro. Utilize mensagens de confirmação após o envio de formulários ou realização de ações importantes.     |  
