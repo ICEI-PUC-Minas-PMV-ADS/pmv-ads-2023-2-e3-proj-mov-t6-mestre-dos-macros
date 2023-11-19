@@ -23,7 +23,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 
 # Avaliação Estática (feita pela equipe de desenvolvimento) 
 
-`Telas analisadas`: Abertura, Login, primeiro acesso, Informações de dieta, Informações de dieta parte dois, alerta de consumo, tela inicial, 
+`Telas analisadas`: Abertura, Login, primeiro acesso, Informações de dieta, Informações de dieta parte dois e tela inicial, 
+
+|Heurísticas (Nielsen) | Notas dos avaliadores  |Média    |Consenso |Considerações |Melhorias |
+|--------------------|------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
 
 
 
