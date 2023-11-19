@@ -9,7 +9,7 @@ Os testes de usabilidade permitem avaliar a qualidade da interface com o usuári
 
 
 
-# Avaliação Estática (feita pela equipe de desenvolvimento) 
+# Avaliação Heurísticas de Nielsen
 
 Os testes de usabilidade desempenham um papel crucial no design de interfaces e experiências de usuário, garantindo que os sistemas digitais sejam eficientes, práticos e, sobretudo, amigáveis. Uma abordagem consolidada para avaliar a usabilidade é por meio das 10 Heurísticas de Nielsen, projetadas por Jakob Nielsen, renomado especialista em usabilidade. Essas heurísticas são diretrizes práticas que proporcionam uma estrutura para identificar e resolver problemas comuns de design, priorizando a criação de interfaces intuitivas e centradas no usuário. Ao compreender esses princípios fundamentais, é possível realizar avaliações sistemáticas que destacam áreas de aprimoramento, permitindo a construção de produtos digitais mais acessíveis e atraentes para os usuários. Este texto explorará os conceitos básicos dessas heurísticas, delineando sua importância e como elas orientarão a prática de testes de usabilidade.
 
