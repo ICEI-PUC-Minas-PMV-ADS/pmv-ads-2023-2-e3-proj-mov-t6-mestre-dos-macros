@@ -14,31 +14,46 @@ Os testes de usabilidade permitem avaliar a qualidade da interface com o usuári
 Os testes de usabilidade desempenham um papel crucial no design de interfaces e experiências de usuário, garantindo que os sistemas digitais sejam eficientes, práticos e, sobretudo, amigáveis. Uma abordagem consolidada para avaliar a usabilidade é por meio das 10 Heurísticas de Nielsen, projetadas por Jakob Nielsen, renomado especialista em usabilidade. Essas heurísticas são diretrizes práticas que proporcionam uma estrutura para identificar e resolver problemas comuns de design, priorizando a criação de interfaces intuitivas e centradas no usuário. Ao compreender esses princípios fundamentais, é possível realizar avaliações sistemáticas que destacam áreas de aprimoramento, permitindo a construção de produtos digitais mais acessíveis e atraentes para os usuários. Este texto explorará os conceitos básicos dessas heurísticas, delineando sua importância e como elas orientarão a prática de testes de usabilidade.
 
 
-1. Visibilidade de qual estado estamos no sistema
-É responsabilidade do sistema informar o que está acontecendo em real time pro usuário.
+1 - Visibilidade do Estado do Sistema:
 
-2. Correspondência entre o sistema e o mundo real
-Em relação ao mundo real podemos considerar: sons, visual e o tom de escrita que usuário utiliza para se comunicar. Implementamos bastante esta heurística quando utilizamos uma seta, ícones e utilizamos a cor vermelha para elementos negativos.
+No contexto de interação entre usuário e sistema, é crucial que uma plataforma forneça, em tempo real, informações claras sobre o estado atual. Esta heurística garante que o usuário esteja sempre ciente de que está ocorrendo no sistema.
+Correspondência entre o Sistema e o Mundo Real:
 
-3. Liberdade de controle fácil pro usuário
-Essa foi a heurística que me motivou a fazer esse post. Nesta heurística, a preocupação é de passar pro usuário a liberdade de ele fazer o que quiser dentro do sistema com exceção das regras que vão contra o negócio ou interferem em outra funcionalidade.
+2- Considerando diversos aspectos do mundo real:
 
-4. Consistência e padrões
-É importante manter a consistência e padrão visual (texto, cor, desenho do elemento, som e etc).
+Como sons, elementos visuais e tom de escrita do usuário, esta heurística busca alinhar a interface digital com a experiência do mundo real. Estratégias como o uso de setas, ícones e cor vermelha para indicar elementos negativos exemplificam a aplicação dessa diretriz.
+Liberdade de Controle para o Usuário:
 
-5. Prevenções de erros
-Não é uma boa ideia deixar seu usuário errar sem explicar previamente o motivo do erro. Melhor do que isso, tente criar um interface que permite o usuário não errar.
+Essa heurística enfatiza a importância de conceder ao usuário a liberdade de realizar ações dentro do sistema, respeitando as regras essenciais ao negócio. Este princípio visa oferecer uma experiência em que o usuário se sinta capaz de explorar e executar suas ações, dentro dos limites estabelecidos.
+Consistência e Padrões:
 
-6. Reconhecimento em vez de memorização
-O usuário não tem obrigação de decorar qual foi o caminho que ele fez pra chegar até a página.
+3- Manter consistência visual em elementos:
 
-7. Estética e design minimalista
- Toda informação extra que você deixar pro seu usuário pode na verdade adicionar mais uma dúvida, ou seja, deixe o seu layout e o conteúdo o mais simples e direto possível.
+Ccomo texto, cor, desenho e som é fundamental para uma experiência do usuário coesa. Esta heurística destaca a importância de seguir padrões previstos para garantir uma navegação fluida e intuitiva.
+Prevenção de Erros:
 
-Um app que gosta muito dessa heurística é o da Nubank. Pra gerar o boleto de pagamento da sua fatura só são necessárias duas telas e elas são bem simples e realmente objetivas.
+4 - Evitar que o usuário cometa erros sem uma explicação prévia é um princípio vital:
 
-10. Ajuda e documentação
- Implementar documentação e sistema de ajuda, pois  muitos usuários têm o costume de ignorar ambos,  deixar a documentação próxima do usuário e do elemento ou ação que tenha necessidade de uma explicação mais detalhada.
+Proporcionar feedback antecipado sobre possíveis equívocos e projetar interfaces que minimizem a ocorrência de erros são práticas recomendadas.
+Reconhecimento em Vez de Memorização:
+
+5 - A experiência do usuário deve ser intuitiva:
+
+Eliminando a necessidade de memorização de caminhos específicos. Esta heurística enfatiza a importância de criar interfaces que permitam ao usuário considerar, em vez de memorizar, o caminho para alcançar determinada página ou funcionalidade.
+Estética e Design Minimalista:
+
+6- Simplificar a apresentação de informações é essencial. 
+
+Elimine elementos desnecessários e adote um design minimalista para evitar confusões e tornar a interface mais direta e comunicativa.
+Ajuda e Documentação:
+
+7 - Implementar documentação e sistemas de ajuda é fundamental, 
+Uma vez que muitos usuários tendem a ignorar esses recursos. A proximidade desses recursos em relação ao usuário e aos elementos que são desativados foi explicada mais especificamente para facilitar o acesso a informações adicionais quando necessário.
+
+
+
+
+
 
 
 Referência:
